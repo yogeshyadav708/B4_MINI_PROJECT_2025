@@ -1,0 +1,6 @@
+yt-dlp
+fpdf
+transformers
+torch
+nltk
+faster-whisper 
